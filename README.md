@@ -3,4 +3,4 @@ Extension 6
 
 716 FILES TO GO.
 ETA 15 HOURS 
-November 15 8:30PM (CET)
+Now: November 15 8:30PM (CET)
