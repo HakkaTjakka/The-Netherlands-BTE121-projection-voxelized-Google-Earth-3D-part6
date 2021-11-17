@@ -13,3 +13,6 @@ Now converting to Cubic Chunks with converter.jar
 ![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part6/blob/main/exxabite.jpg)
 
 Repo's sample-utrecht - sample-utrecht7 will be deleted soon. 
+
+![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/Thumb-up-terminator_pablo_M_R.jpg)
+
